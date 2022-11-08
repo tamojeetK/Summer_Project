@@ -1,2 +1,2 @@
-# TicTacToe-Game
+# N-Queens Problem 
 
